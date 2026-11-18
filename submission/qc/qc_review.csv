@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,8,thua,Vũ Hữu Hưng,"Box #8 three_wheeler trùng với xe ba bánh đã được bao bởi box #4."
+img_006.jpg,,khong,Vũ Hữu Hưng,"Không thấy lỗi nhãn rõ ràng khi đối chiếu ảnh và các box."
+img_014.jpg,146,sai_vi_tri_kich_thuoc,Vũ Hữu Hưng,"Box bicycle #146 bao cả người phụ nữ dắt xe; box xe cần ôm riêng phần xe."
+img_014.jpg,,bo_sot,Vũ Hữu Hưng,"Thiếu box person cho người phụ nữ đang dắt xe đạp ở bên trái ảnh."
+img_031.jpg,,khong,Vũ Hữu Hưng,"Không thấy lỗi nhãn rõ ràng khi đối chiếu ảnh và các box."
+img_035.jpg,,khong,Vũ Hữu Hưng,"Không thấy lỗi nhãn rõ ràng khi đối chiếu ảnh và các box."
