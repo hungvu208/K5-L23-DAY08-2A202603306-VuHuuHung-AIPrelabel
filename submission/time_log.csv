@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold manual,4,15,gan nhan 4 anh khong dung autolabel
+batch review,24,75,review 24 anh do model gan nhan
